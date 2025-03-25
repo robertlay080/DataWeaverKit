@@ -1,0 +1,23 @@
+
+---
+
+### **2. 29_APIUptimeLogger**  
+**Description:**  
+A CLI utility for checking HTTP response status and latency of multiple endpoints.
+
+#### **README.md**
+```markdown
+# APIUptimeLogger - Lightweight Endpoint Tracker
+
+APIUptimeLogger monitors a list of endpoints and provides simple logs of availability and speed.
+
+## Features
+- Ping multiple URLs  
+- Logs status code + response time  
+- Can write logs to file  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_APIUptimeLogger.git
+cd 29_APIUptimeLogger
+python monitor.py
