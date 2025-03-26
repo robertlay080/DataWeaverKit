@@ -1,0 +1,23 @@
+
+---
+
+### **3. 29_LogAlertParser**  
+**Description:**  
+A log analysis script that detects repeated errors and highlights unusual patterns.
+
+#### **README.md**
+```markdown
+# LogAlertParser - Repetitive Log Event Detector
+
+LogAlertParser searches for frequent errors or bursts of warnings inside app or system logs.
+
+## Features
+- Frequency-based log breakdown  
+- Works with rotated logs  
+- Simple and fast  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_LogAlertParser.git
+cd 29_LogAlertParser
+python analyze.py mylogfile.log
