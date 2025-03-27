@@ -1,0 +1,23 @@
+
+---
+
+### **4. 29_StreamChartDisplay**  
+**Description:**  
+Plots a real-time line graph from numeric input data using Matplotlib.
+
+#### **README.md**
+```markdown
+# StreamChartDisplay - Live Data Plotter
+
+StreamChartDisplay turns numeric data streams into smooth real-time line plots for visual monitoring.
+
+## Features
+- Animated Matplotlib chart  
+- Scrollable x-axis  
+- Works with custom or random input  
+
+## Usage
+```bash
+git clone https://github.com/your-username/29_StreamChartDisplay.git
+cd 29_StreamChartDisplay
+python visualize.py
